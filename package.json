@@ -1,0 +1,11 @@
+{
+  "name": "regex-presets",
+  "version": "1.0.0",
+  "description": "Regex Presets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ErdemGKSL",
+  "license": "ISC"
+}
